@@ -1,10 +1,12 @@
 # Sardi Colora Variations
 
-Sardi consists of 6 major icon themes.
+Sardi consists of 6 major icon themes and 10 different kind of folders.
 
 You can change all icon themes with the words **flexible** and **colora** in them.
-Sardi included many coloring scripts.
-You can color the icons any way you see fit.
+Sardi comes with many coloring scripts. You can color the icons any way you see fit.
+
+These icons are an example what you can do with the Sardi-Colora scripts.
+
 
 All information about Sardi icons can be found here : 
 
