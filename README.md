@@ -8,8 +8,7 @@ Sardi comes with many coloring scripts. You can color the icons any way you see 
 These icons are an example what you can do with the Sardi-Colora scripts.
 
 
-All information about Sardi icons can be found here : 
-
+#More information about Sardi
 
 What can I tell you about Sardi icons: 
 
