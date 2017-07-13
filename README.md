@@ -11,12 +11,12 @@ These icons are an example what you can do with the Sardi-Colora scripts.
 **More information about Sardi**
 
 
-What can I tell you about Sardi icons: 
+What can I tell you about Sardi icons? 
 
 http://erikdubois.be/overview-sardi-icons-version-9-sardi-extra-icons/
 
 
-Personalize the Sardi icon theme like you want it: 
+Personalize the Sardi icon theme like you want it.
 
 http://erikdubois.be/personalize-sardi-icon-theme-overview/
 
